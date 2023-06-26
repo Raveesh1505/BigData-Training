@@ -17,4 +17,4 @@ To run pig scripts, use the following command:
 ## **Example Programs**
 
 1. **Word Count:** The task in this program is to count the frequency of every word acailable in the input file.
-- [Pig Script for the following can be found here.](https://github.com/Raveesh1505/BigData-Training/Apache_Pig/word_count)
+- [Pig Script for the following can be found here.](https://github.com/Raveesh1505/BigData-Training/tree/main/Apache_Pig/word_count)

@@ -2,6 +2,14 @@
 
 As the name suggest, big data is type of data which is enormous in size and cannot be handeled using traditional file handeling systems.
 
+## Index
+
+- [Big Data V/s Small Data](#big-data-vs-small-data)
+- [Hadoop and Mapreduce](#hadoop)
+    - [Mapreduce Programs](https://github.com/Raveesh1505/BigData-Training/tree/main/MapReduce)
+- [Apache Pig](#apache-pig)
+    - [Pig Programs](https://github.com/Raveesh1505/BigData-Training/tree/main/Apache_Pig)
+
 ## Big Data V/s Small Data
 
 | Big Data | Small Data |
@@ -34,4 +42,3 @@ Pig is a platform for analyzing large data sets that consists of a high-level la
 ### PIG LATIN LANGUAGE
 
 The Pig Latin is a data flow language used by Apache Pig to analyze the data in Hadoop. It is a textual language that abstracts the programming from the Java MapReduce idiom into a notation.
-
