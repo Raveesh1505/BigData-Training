@@ -1,4 +1,4 @@
-# MapReduce Programing using Python
+EADME# MapReduce Programing using Python
 
 MapReduce programs can be written and executed using Python also eventhough the hadoop framework is written in Java. Using hadoop streaming, we can stream any python mapreduce program on hadoop platform.
 
