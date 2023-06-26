@@ -20,4 +20,4 @@ ___
 
 - **For windows:** `hadoop jar "{hadoop-streaming-3.3.x.jar file address}" -file {mapper_file_address} -mapper "python mapper.py" -file {reducer_file_address} -reducer "python reducer.py" -input {hdfs_address_of_test_file} -output {hdfs_output_location}`
 ___
-[***Hadoop Streaming JAR files can be downloaded from here if not available***](https://jar-download.com/artifacts/org.apache.hadoop/hadoop-streaming)
+[***Hadoop Streaming JAR files can be downloaded from here if not available locally.***](https://jar-download.com/artifacts/org.apache.hadoop/hadoop-streaming)
