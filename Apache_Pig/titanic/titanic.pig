@@ -1,6 +1,6 @@
 /* TITANIC DATASET ANALYSIS */
 
-raw_input = LOAD '/Users/raveeshyadav/GitHub/BigData-Training/Apache_Pig/titanic/titanic_data.txt' USING PigStorage(',');
+raw_input = LOAD '/Apache_Pig/titanic/titanic_data.txt' USING PigStorage(',');
 titanic_data = FOREACH raw_input GENERATE (int) $0 AS PAX_ID, (int) $1 AS SURVIVED, (chararray) $3 AS NAME, (chararray) $4 AS SEX, (int) $5 AS AGE;
 
 /* How many passengers in total */
