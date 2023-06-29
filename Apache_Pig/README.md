@@ -22,5 +22,8 @@ To run pig scripts, use the following command:
 2. **Gorceries List:** The task in this program is to sort the groceries based on expiry date and dump.
 - [Pig Script for the following can be found here.](https://github.com/Raveesh1505/BigData-Training/tree/main/Apache_Pig/groceries_sample)
 
-1. **Sample log:** The task in this program is to analyse and dump all the result performed on a sample log file.
+3. **Sample log:** The task in this program is to analyse and dump all the result performed on a sample log file.
 - [Pig Script for the following can be found here.](https://github.com/Raveesh1505/BigData-Training/tree/main/Apache_Pig/sample_log)
+
+4. **Titanic Data Analysis:** The task in this program is to analyse and dump all the result performed on a sample titanic dataset file.
+- [Pig Script for the following can be found here.](https://github.com/Raveesh1505/BigData-Training/tree/main/Apache_Pig/titanic)
